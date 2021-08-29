@@ -1,2 +1,4 @@
 # DAP-skill-based-challenge
-Click on OpenwithColab then run the cell
+Within the ipynb file, click on 'Open with Colab'
+
+Run the script 
